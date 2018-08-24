@@ -18,13 +18,17 @@ A quick preview of some favorite tools and/or frameworks are:
 - Jupyter Notebooks
   - JupyterHub
 
+
 - DockerHub
+
 
 - Databases
   - Postgres
   - RedShift
   - Presto
   - MapD (the database)
+  - ElasticSearch (index/search engine)
+  
   
 - Business Intelligence Tools
   - MapD (Immerse)
