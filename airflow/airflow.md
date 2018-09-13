@@ -12,3 +12,16 @@
 - [Airflow Plugins Docs](https://airflow.apache.org/plugins.html)
 
 
+#### DAGs
+[Example-Airflow-DAGs](https://github.com/airflow-plugins/Example-Airflow-DAGs)
+
+
+
+#### Airflow vs other Workflow Management solutions
+- e.g. Oozie, Luigi, Azkaban, Cron
+
+- [What we learned migrating off Cron to Airflow](https://medium.com/videoamp/what-we-learned-migrating-off-cron-to-airflow-b391841a0da4)
+
+
+- LocalExector
+After some time you'll likely max out the workers on that local instance and so then you would need something like the `CeleryExecutor` or `MesosExecutor`
