@@ -1,5 +1,7 @@
 # The Airflow
 
+### Good Overviews of Airflow in Production
+- [Apache Airflow at Pandora](https://engineering.pandora.com/apache-airflow-at-pandora-1d7a844d68ee)
 
 - [Using Apache Airflow to build reusable ETL on AWS Redshift](https://sonra.io/2018/01/01/using-apache-airflow-to-build-a-data-pipeline-on-aws/)
   - Inputing Connections via the GUI helps "hide" them, perhaps a better way to avoid GUI and still protect your credentials?
@@ -28,3 +30,10 @@
 
 #### LocalExector
 After some time you'll likely max out the workers on that local instance and so then you would need something like the `CeleryExecutor` or `MesosExecutor`
+
+### Data Lineage
+- Where did this data come from?
+
+- Currently, no built in direct way how objects are related, graphed together.
+- Need Metadata and doing analytics on it would lead to featuring these relationships.
+
