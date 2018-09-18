@@ -42,16 +42,21 @@ A quick preview of some favorite tools and/or frameworks are:
 # Data Engineer - First Things First
 If you're going to be a Python developer of any kind, e.g. Data Scientist, Web Developer, and/or Data Engineer there's a few things you should set up from the beginning. Many of these will help abstract away sensitive information (e.g. passwords) from your code repos so you don't accidently commit any sensitive info to Github. They also help make your workflows much faster.
 
-1. Install Python
+Some potential things you should consider doing first:
+1. Install Miniconda (latest version)
 2. Set up environment variables
-3. Customize your Bash terminal
-4. 
+  - Customize your Bash terminal
+  - Aliases for bash, awk, grep, sed, git commands
 
 ### 1. Installing Python
 I recommend installing the latest stable version of [Miniconda](https://conda.io/miniconda.html), as of this post that was Python 3.x. You can still set up conda environments for Python 2.x and we'll get to that later. If you have any problems with installing, read the documentation, do a web search query (e.g. Google, DuckDuckGo, Brave, FireFox), or search for help on YouTube. You got this.
 
 
-### 2. Setting Environment Variables on your `*nix` machine
+### 2. Setting Up conda & pip
+In Python you're going to need an `environment manager` and a `package manager`. Conda is both. You can read more about Conda here: [Conda: Myths and Misconceptions](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/), [Conda - Package Manager](https://conda.io/docs/user-guide/tasks/manage-pkgs.html), [Conda - Environment Manager](https://conda.io/docs/user-guide/tasks/manage-environments.html). My _personal recommendation_ is to use Conda to manage your environments, but **NOT** to manage your package installation. The main reason is because conda-forge (where Conda installs from) doesn't have all the packages Pypi does (where `pip` installs from). So for package management, I recommend using [pip](https://pypi.org/project/pip/). 
+
+
+### 3. Setting Environment Variables on your `*nix` machine
 - Add these to your .bash_profile, your .aws config
 - e.g. DB Credentials, AWS Credentials
 
