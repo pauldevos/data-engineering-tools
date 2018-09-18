@@ -37,3 +37,24 @@ A quick preview of some favorite tools and/or frameworks are:
   - Bokeh
   - Plotly
   - Dash
+
+
+
+### Setting Environment Variables on your `*nix` machine
+- Add these to your .bash_profile, your .aws config
+- e.g. DB Credentials, AWS Credentials
+
+e.g. update your `.bash_profile`
+``` #.bash_profile
+export DB_USER = "my_username"
+export DB_PASSWORD = "my_password"
+```
+
+Then you can access them in your Python scripts like so.
+``` python
+import os
+
+db_user = os.environ.get("DB_USER")
+db_pass = os.environ.get("DB_PASS")
+
+```
