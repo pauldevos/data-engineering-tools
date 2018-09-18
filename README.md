@@ -96,3 +96,11 @@ fi
 
 ### 4. Set up and Configure Git
 You may use whatever version/source control you like. There's two main flavors, subversion and git. As of this writing, Git has 3 main hosting services: [Github](https://github.com/), [Bitbucket](https://bitbucket.org/), and [Gitlab](https://about.gitlab.com/).
+
+
+
+
+------- Not yet organized
+
+`brew upgrade brew` ## upgrades to all current packages
+`brew upgrade` ## installs upgrades for any previously installed packages
