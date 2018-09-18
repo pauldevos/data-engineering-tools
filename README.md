@@ -44,10 +44,10 @@ If you're going to be a Python developer of any kind, e.g. Data Scientist, Web D
 
 Some potential things you should consider doing first:
 1. Install Miniconda (latest version)
-2. Set up environment variables
+2. Set considerations for you in setting up environment variables
     - Customize your Bash terminal
     - Aliases for bash, awk, grep, sed, git commands
-    - Dotfiles()
+    - [Dotfiles](https://dotfiles.github.io/)
     - [Turbo charge your Mac development environment](https://www.mugo.ca/Blog/Turbo-charge-your-Mac-development-environment)
 
 
