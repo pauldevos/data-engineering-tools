@@ -60,6 +60,6 @@ db_pass = os.environ.get("DB_PASS")
 ```
 
 Other environment config variables files should be stored accordingly in one of the following
-- .bashrc
-- AWS - .aws/credentials
-- SSJ - .ssh - here you will have your id_rsa files
+- `.bashrc`
+- AWS - `.aws/credentials`
+- SSJ - `.ssh` - here you will have your `id_rsa` secret and public ssh key files
