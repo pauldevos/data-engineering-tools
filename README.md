@@ -45,8 +45,11 @@ If you're going to be a Python developer of any kind, e.g. Data Scientist, Web D
 Some potential things you should consider doing first:
 1. Install Miniconda (latest version)
 2. Set up environment variables
-  - Customize your Bash terminal
-  - Aliases for bash, awk, grep, sed, git commands
+    - Customize your Bash terminal
+    - Aliases for bash, awk, grep, sed, git commands
+    - Dotfiles()
+    - [Turbo charge your Mac development environment](https://www.mugo.ca/Blog/Turbo-charge-your-Mac-development-environment)
+
 
 ### 1. Installing Python
 I recommend installing the latest stable version of [Miniconda](https://conda.io/miniconda.html), as of this post that was Python 3.x. You can still set up conda environments for Python 2.x and we'll get to that later. If you have any problems with installing, read the documentation, do a web search query (e.g. Google, DuckDuckGo, Brave, FireFox), or search for help on YouTube. You got this.
