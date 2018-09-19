@@ -107,7 +107,10 @@ You may use whatever version/source control you like. There's two main flavors, 
 
 
 ### Dot Files
+- [Getting Started with DotFiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 - [Donne Martin's DotFile](https://github.com/donnemartin/dev-setup)
 - [Awesome DotFiles](https://github.com/webpro/awesome-dotfiles)
 - [Mathias Bynens DotFiles](https://github.com/mathiasbynens/dotfiles)
 - https://dotfiles.github.io/
+- https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html
+- 
