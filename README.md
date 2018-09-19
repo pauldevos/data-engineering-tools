@@ -104,3 +104,9 @@ You may use whatever version/source control you like. There's two main flavors, 
 
 `brew upgrade brew` ## upgrades to all current packages
 `brew upgrade` ## installs upgrades for any previously installed packages
+
+
+### Dot Files
+- [Donne Martin's DotFile](https://github.com/donnemartin/dev-setup)
+- [Awesome DotFiles](https://github.com/webpro/awesome-dotfiles)
+- [Mathias Bynens DotFiles](https://github.com/mathiasbynens/dotfiles)
