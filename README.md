@@ -101,6 +101,30 @@ Then you're going to need to generate an SSH key so you can SSH from your host (
 
 There's some instructiosn on how to this here: [Generating a new SSH key and adding it to the ssh-agent](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
+#### If you have Multiple SSH Keys (often you will)
+You have to do some magic to make it work. There's a few suggestions here: [SSHing into Multiple Github Accounts](https://gist.github.com/jexchan/2351996)
+
+For example your `~/.ssh folder may have multiple keys:
+```
+~/.ssh/id_rsa
+~/.ssh/id_rsa_home
+~/.ssh/id_rsa_work
+~/.ssh/id_rsa_aws
+```
+
+You will have to add all these keys to your SSH agent,
+e.g.
+```
+ssh-add ~/.ssh/id_rsa
+ssh-add ~/.ssh/id_rsa_home
+ssh-add ~/.ssh/id_rsa_work
+ssh-add ~/.ssh/id_rsa_aws
+```
+
+Now to use each for a specific task you'll have to use the `-i` (identity) tag for the correct pairing.
+e.g. `ssh -i ~/.ssh/id_rsa_aws ubuntu@aws-sdf-adfs-s112312.com`
+
+
 
 
 
