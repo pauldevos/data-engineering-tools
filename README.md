@@ -125,6 +125,7 @@ Now to use each for a specific task you'll have to use the `-i` (identity) tag f
 e.g. `ssh -i ~/.ssh/id_rsa_aws ubuntu@aws-sdf-adfs-s112312.com`
 
 
+If you need to add SSH keys to an EC2, you can find instructions for that here: - [How do I add new user accounts with SSH access to my Amazon EC2 Linux instance?](https://aws.amazon.com/premiumsupport/knowledge-center/new-user-accounts-linux-instance/)
 
 
 
