@@ -14,7 +14,7 @@ A quick preview of some favorite tools and/or frameworks are:
   - Pyramid
   - Scikit-Learn
   - TensorFlow
-  - [Apache Arrow](https://arrow.apache.org/)
+  - [Apache Arrow](https://arrow.apache.org/) - [PyArrow](https://arrow.apache.org/docs/python/)
   
 - Jupyter Notebooks
   - JupyterHub
