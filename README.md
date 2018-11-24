@@ -11,9 +11,10 @@ A quick preview of some favorite tools and/or frameworks are:
   - Pandas
   - Boto3 (AWS SDK)
   - Flask
-  - Django
+  - Pyramid
   - Scikit-Learn
   - TensorFlow
+  - [Apache Arrow](https://arrow.apache.org/)
   
 - Jupyter Notebooks
   - JupyterHub
