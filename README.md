@@ -41,7 +41,7 @@ A quick preview of some favorite tools and/or frameworks are:
 
 - Data Visualization Projects
   - [UW Falcon](https://github.com/uwdata/falcon)
-  - [Python Data Visualization with Bokeh](https://realpython.com/python-data-visualization-bokeh/)
+  - [Interactive Python Data Visualization with Bokeh](https://realpython.com/python-data-visualization-bokeh/)
   - [Python Module Imports Visualization](https://chezsoi.org/lucas/blog/python-modules-imports-visualization.html) - [code](https://github.com/Lucas-C/dotfiles_and_notes/blob/master/languages/python/gen_modules_graph.py)
   
 
