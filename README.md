@@ -32,12 +32,17 @@ A quick preview of some favorite tools and/or frameworks are:
   
   
 - Business Intelligence Tools
-  - MapD (Immerse)
+  - MapD - [Database](https://github.com/omnisci/mapd-core), [Charting](https://github.com/omnisci/mapd-charting),  
+  [Rendering Engine](https://www.omnisci.com/platform/immerse/) by [OmniSci](https://www.omnisci.com/)
   - SuperSet
   - ELK Stack (Kibana)
   - Bokeh
   - Plotly
   - Dash
+
+- Data Visualization Projects
+  - [UW Falcon](https://github.com/uwdata/falcon)
+  
 
 
 # Data Engineer - First Things First
