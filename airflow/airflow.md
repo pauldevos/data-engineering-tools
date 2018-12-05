@@ -7,7 +7,7 @@
   - Inputing Connections via the GUI helps "hide" them, perhaps a better way to avoid GUI and still protect your credentials?
   - Great hands-on view of building out your own Operator (e.g. Load data from S3 to RedShift)
 - [Airflow with Maxime Beauchemin - Episode 44](https://www.podcastinit.com/episode-44-airflow-with-maxime-beauchemin/)
-
+- [awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
 
 ### Plugins
 - [Airflow Plugins Github Page](https://github.com/airflow-plugins)
