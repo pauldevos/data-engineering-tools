@@ -1,6 +1,9 @@
 # data-engineering-tools
 A list of tools and whatnot under the umbrella of Data Engineering
 
+#### Systems Engineering Overview
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+
 
 A quick preview of some favorite tools and/or frameworks are:
 
