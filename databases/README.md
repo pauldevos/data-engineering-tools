@@ -13,4 +13,31 @@
 - [Apache Druid](http://druid.io/) - Apache Druid (incubating) is a high performance analytics data store for event-driven data.
 - [Apache Pinot](https://github.com/apache/incubator-pinot) (Incubating) - A realtime distributed OLAP datastore
 - [Apache Kylin](http://kylin.apache.org/) - Apache Kylin is an open source Distributed Analytics Engine, contributed by eBay Inc., provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets.
-- [ClickHouse](https://clickhouse.yandex/) - ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.
+- [AtScale] - Not Open Source
+
+
+### Commercial Data Warehouses
+- [Snowflake](https://docs.snowflake.net/manuals/user-guide-intro.html) - Snowflake is an analytic data warehouse provided as Software-as-a-Service (SaaS)
+- [Amazon Redshift](https://aws.amazon.com/redshift/)
+- [Google BigQuery](https://cloud.google.com/bigquery/)
+
+Advantages: Joins, ...
+
+### Serviced Cloud and Analytics
+- [Looker](https://looker.com/)
+- [Sisense](https://www.sisense.com/)
+- [panoply](https://panoply.io/)
+
+Provides Querying and Dashboarding options all in one.
+
+### Distributed Compute Tools
+- Dask
+- Apache Spark
+- Apache Flink
+- Apache Kafka
+
+### Orchestrators, Job Schedulers, Monitors
+- Apache Airflow (created in Airbnb)
+- Luigi (created in Spotify)
+- Azkaban (created in LinkedIn)
+- Apache Oozie (for Hadoop systems)
