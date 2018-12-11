@@ -27,6 +27,9 @@ Advantages: Joins, ...
 - [Looker](https://looker.com/)
 - [Sisense](https://www.sisense.com/)
 - [panoply](https://panoply.io/)
+- [Pivot](https://docs.imply.io/on-prem/visualize/) - data cubes and dashboards
+- [Turnilo](https://github.com/allegro/turnilo) - open source Pivot
+- [PowerBI](https://powerbi.microsoft.com/en-us/)
 
 Provides Querying and Dashboarding options all in one.
 
