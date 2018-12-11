@@ -23,7 +23,7 @@
 
 Advantages: Joins, ...
 
-### Serviced Cloud and Analytics
+### Serviced Cloud, Data Visualization, and Analytics
 - [Looker](https://looker.com/)
 - [Sisense](https://www.sisense.com/)
 - [panoply](https://panoply.io/)
