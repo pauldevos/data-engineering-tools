@@ -44,3 +44,8 @@ Provides Querying and Dashboarding options all in one.
 - Luigi (created in Spotify)
 - Azkaban (created in LinkedIn)
 - Apache Oozie (for Hadoop systems)
+
+
+
+### Database Best Practices
+- [Ruby with Postgres](https://blog.carbonfive.com/2016/11/16/rails-database-best-practices/)
