@@ -146,6 +146,12 @@ If you need to add SSH keys to an EC2, you can find instructions for that here:
 `brew upgrade` ## installs upgrades for any previously installed packages
 
 
+
+### Best Practices
+- [Gitlab Best Practices](https://docs.gitlab.com/ee/development/README.html#databases)
+
+
+
 ### Dot Files
 - [Getting Started with DotFiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 - [Donne Martin's DotFile](https://github.com/donnemartin/dev-setup)
