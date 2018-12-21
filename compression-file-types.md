@@ -16,7 +16,7 @@ If you want to keep the original, pass the `-k/--keep` flag:
 ```
 gunzip -k file.bin.gz
 ```
-gzip behaves like gunzip when it is invoked with the -d/--decompress/--uncompress flag. So this works too:
+gzip behaves like gunzip when it is invoked with the `-d/--decompress/--uncompress` flag. So this works too:
 
 ```
 gzip -d file.bin.gz
