@@ -19,3 +19,4 @@ As with `gunzip`, the default behavior of `gzip -d` is to replace its input file
 (All of this applies regardless of what kind of file you want to decompress; none of it is specific to the file having .bin in its name--that's just part of the example I've used, to better match your situation.)
 
 You can run man gunzip for more information, or gunzip --help for a summary of options.
+[src](https://askubuntu.com/questions/946006/how-to-uncompress-a-bin-gz-file/946013#946013)
