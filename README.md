@@ -152,6 +152,9 @@ If you need to add SSH keys to an EC2, you can find instructions for that here:
 - [Advanced Git Tips for Python Developers](https://realpython.com/advanced-git-for-pythonistas/)
 
 
+### AWS
+- [Python, Boto3, and AWS S3: Demystified](https://realpython.com/python-boto3-aws-s3/)
+
 
 ### Dot Files
 - [Getting Started with DotFiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
