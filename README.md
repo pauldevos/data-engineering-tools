@@ -149,6 +149,7 @@ If you need to add SSH keys to an EC2, you can find instructions for that here:
 
 ### Best Practices
 - [Gitlab Best Practices](https://docs.gitlab.com/ee/development/README.html#databases)
+- [Advanced Git Tips for Python Developers](https://realpython.com/advanced-git-for-pythonistas/)
 
 
 
