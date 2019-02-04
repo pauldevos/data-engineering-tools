@@ -168,3 +168,11 @@ If you need to add SSH keys to an EC2, you can find instructions for that here:
 
 ### Git
 - [Interactive Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
+
+### Git Q&A
+- https://stackoverflow.com/questions/67699/how-to-clone-all-remote-branches-in-git?rq=1
+- https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely?rq=1
+- https://stackoverflow.com/questions/61212/how-to-remove-local-untracked-files-from-the-current-git-working-tree?rq=1
+- https://stackoverflow.com/questions/1628088/reset-local-repository-branch-to-be-just-like-remote-repository-head?noredirect=1&lq=1
+
+
