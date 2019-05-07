@@ -13,6 +13,7 @@ A list of tools and whatnot under the umbrella of Data Engineering
   - EC2
   - RDS
   - RedShift
+  - EMR
   - Kinesis
   - Athena
   - Lambda
@@ -25,6 +26,46 @@ A list of tools and whatnot under the umbrella of Data Engineering
   
 #### Job Scheduling
 - Cron, Airflow, Ooozie, Luigi, and/or AWS Step Functions
+
+#### Frameworks
+- Scheduling/Workflows: Airflow, Oozie, Luigi, Cron, and/or AWS Step Functions
+- Spark
+- Data Transformation: Pandas, Dask
+- ML Pipelines: Numpy, Scikit-Learn
+
+#### Languages
+- Python
+- Bash
+- SQL
+- Optional: Scala (for Spark), Java (for Spark, Kafka, or Storm)
+
+#### Data Modeling
+- Fact-Dimensional Warehouses
+- Slowly Changing Dimensions
+- Star Schema, Snowflake Schema
+- Index Tuning
+- Query Tuning
+- Transactional Processing: Lock and Block
+- OLTP vs OLAP
+
+#### Data Warehousing Architectures
+- Lambda Architecture
+- Kappa Architecture
+- Batch
+- Mini-Batch
+- Streaming
+
+#### Business Intelligence Tools
+- Click and Drag (e.g. Looker)
+- SQL Based (e.g. Tableau, Looker, Mode, Periscope)
+- SQL/Python/R based (e.g. Jupyter, Mode)
+
+#### Data Warehouse Serving Layers
+- RedShift
+- BigQuery
+- Snowflake
+- RDBMS (e.g. AWS RDS, Google SQL)
+
 
 
 
