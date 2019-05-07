@@ -8,6 +8,7 @@ A list of tools and whatnot under the umbrella of Data Engineering
 ## Things a Data Engineer should know
 
 ### Cloud Computing (e.g. AWS, Google Cloud, Azure)
+----
 - AWS resources:
   - S3
   - EC2
