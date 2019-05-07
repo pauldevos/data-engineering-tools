@@ -66,7 +66,18 @@ A list of tools and whatnot under the umbrella of Data Engineering
 - Snowflake
 - RDBMS (e.g. AWS RDS, Google SQL)
 ----
+### Other Important Development Tools
+- Docker
+- CI/CD (CircleCI, TravisCI, or Jenkins)
+- Pytest (or Unittest)
+- Tox
 
+### CLI Tools
+- AWS CLI
+- Bash (Awk, Grep, Sed)
+- Click
+- Argparse
+- Python-Fire
 
 
 
