@@ -39,7 +39,7 @@ A list of tools and whatnot under the umbrella of Data Engineering
 - SQL
 - Optional: Scala (for Spark), Java (for Spark, Kafka, or Storm)
 ----
-#### Data Modeling
+### Data Modeling
 - Fact-Dimensional Warehouses
 - Slowly Changing Dimensions
 - Star Schema, Snowflake Schema
@@ -48,19 +48,19 @@ A list of tools and whatnot under the umbrella of Data Engineering
 - Transactional Processing: Lock and Block
 - OLTP vs OLAP
 ----
-#### Data Warehousing Architectures
+### Data Warehousing Architectures
 - Lambda Architecture
 - Kappa Architecture
 - Batch
 - Mini-Batch
 - Streaming
 ----
-#### Business Intelligence Tools
+### Business Intelligence Tools
 - Click and Drag (e.g. Looker)
 - SQL Based (e.g. Tableau, Looker, Mode, Periscope)
 - SQL/Python/R based (e.g. Jupyter, Mode)
 ----
-#### Data Warehouse Serving Layers
+### Data Warehouse Serving Layers
 - RedShift
 - BigQuery
 - Snowflake
