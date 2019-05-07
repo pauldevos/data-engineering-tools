@@ -7,7 +7,7 @@ A list of tools and whatnot under the umbrella of Data Engineering
 
 ## Things a Data Engineer should know
 
-#### Cloud Computing (e.g. AWS, Google Cloud, Azure)
+### Cloud Computing (e.g. AWS, Google Cloud, Azure)
 - AWS resources:
   - S3
   - EC2
@@ -24,16 +24,16 @@ A list of tools and whatnot under the umbrella of Data Engineering
   - Boto3 (Python)
   - AWS CLI
   
-#### Job Scheduling
+### Job Scheduling
 - Cron, Airflow, Ooozie, Luigi, and/or AWS Step Functions
 
-#### Frameworks
+### Frameworks
 - Scheduling/Workflows: Airflow, Oozie, Luigi, Cron, and/or AWS Step Functions
 - Spark
 - Data Transformation: Pandas, Dask
 - ML Pipelines: Numpy, Scikit-Learn
 
-#### Languages
+### Languages
 - Python
 - Bash
 - SQL
