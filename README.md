@@ -5,26 +5,26 @@ A list of tools and whatnot under the umbrella of Data Engineering
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 
-### Things a Data Engineer should know
+## Things a Data Engineer should know
 
-- **Cloud Computing** (e.g. AWS, Google Cloud, Azure)
-  - AWS resources:
-    - S3
-    - EC2
-    - RDS
-    - RedShift
-    - Kinesis
-    - Athena
-    - Lambda
-    - VPC
-    - Glue
-    - Sagemaker
-  - AWS tools:
-    - Boto3 (Python)
-    - AWS CLI
+#### Cloud Computing (e.g. AWS, Google Cloud, Azure)
+- AWS resources:
+  - S3
+  - EC2
+  - RDS
+  - RedShift
+  - Kinesis
+  - Athena
+  - Lambda
+  - VPC
+  - Glue
+  - Sagemaker
+- AWS tools:
+  - Boto3 (Python)
+  - AWS CLI
   
-- **Job Scheduling**
-  - Cron, Airflow, Ooozie, Luigi, and/or AWS Step Functions
+#### Job Scheduling
+- Cron, Airflow, Ooozie, Luigi, and/or AWS Step Functions
 
 
 
