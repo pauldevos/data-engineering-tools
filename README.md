@@ -232,6 +232,9 @@ If you need to add SSH keys to an EC2, you can find instructions for that here:
 - [Python, Boto3, and AWS S3: Demystified](https://realpython.com/python-boto3-aws-s3/)
 
 
+### Task Schedulers - Airflow, Oozie, Dask, Celery
+- [Dask and Celery Comparison](http://matthewrocklin.com/blog/work/2016/09/13/dask-and-celery)
+
 ### Dot Files
 - [Getting Started with DotFiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 - [Donne Martin's DotFile](https://github.com/donnemartin/dev-setup)
